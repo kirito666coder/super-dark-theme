@@ -19,5 +19,9 @@
       }
     ]
   },
-  "icon": "image/Black-and-white-VSCode-logo.png"
+  "icon": "images/Black-and-white-VSCode-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirito666coder/super-dark-theme"
+  }
 }
