@@ -1,0 +1,23 @@
+{
+  "name": "super-dark-theme",
+  "displayName": "super-dark-theme",
+  "description": "dark-theme",
+  "version": "0.0.1",
+  "publisher": "Kirito666coder",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Super Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super Dark Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "image/Black-and-white-VSCode-logo.png"
+}
