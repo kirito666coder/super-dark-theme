@@ -2,7 +2,7 @@
   "name": "super-dark-theme",
   "displayName": "super-dark-theme",
   "description": "dark-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Kirito666coder",
   "engines": {
     "vscode": "^1.110.0"
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "icon": "images/Black-and-white-VSCode-logo.png",
+  "icon": "images/Dark-VS-Code.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kirito666coder/super-dark-theme"
