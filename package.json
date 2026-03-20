@@ -1,6 +1,6 @@
 {
-  "name": "super-dark-theme",
-  "displayName": "super-dark-theme",
+  "name": "VS-DarkCode",
+  "displayName": "VS-DarkCode",
   "description": "dark-theme",
   "version": "0.0.2",
   "publisher": "Kirito666coder",
@@ -15,13 +15,13 @@
       {
         "label": "Super Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Super Dark Theme-color-theme.json"
+        "path": "./themes/VS-DarkCode.json"
       }
     ]
   },
   "icon": "images/Dark-VS-Code.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kirito666coder/super-dark-theme"
+    "url": "https://github.com/kirito666coder/VS-DarkCode"
   }
 }
