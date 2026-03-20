@@ -35,7 +35,7 @@ VS DarkCode is designed with a strict dark palette and carefully balanced contra
 
 <div align="center">
 
-<a href="#">
+<a href="https://github.com/kirito666coder/VS-DarkCode/releases/download/v0.0.2/VS-DarkCode-0.0.2.vsix">
   <img src="https://img.shields.io/badge/Download%20Theme-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
 
